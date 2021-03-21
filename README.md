@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tushar Gupta ( @guptatushar2000 )
+- 👀 I’m interested in solving some real-world problems through technology.
+- 🌱 I’m currently learning to integrate android apps with machine learning models.
+- 💞️ I’m looking to collaborate on anything interesting.
+- 📫 To reach me just mail at guptatushar.iitbhu@gmail.com .
